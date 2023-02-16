@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**EmiH2022/EmiH2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# HORARIO
+| HORA                    	| LUNES                 	| Martes                           	| Miércoles                        	| Jueves                                                     	| Viernes                          	|
+|-------------------------	|-----------------------	|----------------------------------	|----------------------------------	|------------------------------------------------------------	|----------------------------------	|
+| 7:00 - 7:50             	| COMUNIDADES VIRTUALES 	| MANTENIMIENTO Y REDES DE CÓMPUTO 	| MANTENIMIENTO Y REDES DE CÓMPUTO 	| FÍSICA II                                                  	| MANTENIMIENTO Y REDES DE CÓMPUTO 	|
+| 7:55 - 8:45             	| FÍSICA II             	| BIOLOGÍA II                      	| BIOLOGÍA II                      	| ACTIVIDADES FÍSICAS DEPORTIVAS Y RECREATIVAS            IV 	| BIOLOGÍA II                      	|
+| 8:50 - 9:40             	| MATEMÁTICAS IV        	| FÍSICA II                        	| LITERATURA II                    	| MATEMÁTICAS IV                                             	| MATEMÁTICAS IV                   	|
+| 9:45 - 10:35            	| LITERATURA II         	| MATEMÁTICAS IV                   	| FÍSICA II                        	| MANTENIMIENTO Y REDES DE CÓMPUTO                           	| FÍSICA II                        	|
+| 10:35 - 11:05    RECESO 	|                       	|                                  	|                                  	|                                                            	|                                  	|
+| 11:05 - 11:55           	| INGLÉS IV             	| COMUNIDADES VIRTUALES            	| ORIENTACIÓN EDUCATIVA IV         	| INGLÉS IV                                                  	| HISTORIA DE MÉXICO II            	|
+| 12:00 - 12:50           	| HISTORIA DE MÉXICO II 	| COMUNIDADES VIRTUALES            	| MATEMÁTICAS IV                   	| HISTORIA DE MÉXICO II                                      	| LITERATURA II                    	|
+| 12:55 - 13:45           	|                       	|                                  	|                                  	| BIOLOGÍA II                                                	| INGLÉS IV                        	|
